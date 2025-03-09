@@ -73,6 +73,10 @@ def display_chapters(chapters):
     Returns:
         int or None: Index of selected chapter or None if canceled
     """
+    # Sort chapters in descending order (latest to oldest)
+    # Since chapters are already in reversed order from scraper, we reverse them again
+    chapters = list(reversed(chapters))
+    
     # If there are too many chapters, paginate the display
     chapters_per_page = 20
     total_pages = (len(chapters) + chapters_per_page - 1) // chapters_per_page
