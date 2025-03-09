@@ -14,7 +14,7 @@ setup(
             "manhwa-cli=manhwa_cli.cli:main",
         ],
     },
-    author="Manhwa CLI Team",
+    author="Lakshay",
     description="A CLI tool to browse and read manhwas from toonily.com",
     keywords="manhwa, manga, cli, comic, toonily",
     python_requires=">=3.6",
