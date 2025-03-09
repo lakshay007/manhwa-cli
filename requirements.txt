@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+click==8.1.7
+rich==13.7.0
+tqdm==4.66.1
+cloudscraper==1.2.71
+Pillow==10.1.0
+PyMuPDF==1.23.5 
