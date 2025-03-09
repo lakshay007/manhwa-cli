@@ -46,7 +46,7 @@ manhwa-cli solo leveling --limit 5
 
 1. After searching, you'll see a numbered list of results with details
 2. Enter the number of the manhwa you want to read
-3. You'll see a list of available chapters
+3. You'll see a list of available chapters(Press N to move to the next page of the menu)
 4. Enter the chapter number you want to read
 5. The chapter will download and open as a PDF in your system's default PDF viewer
    - Take advantage of your PDF viewer's native features
