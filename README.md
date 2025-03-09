@@ -36,10 +36,10 @@ A command-line tool to browse and read manhwas from [Toonily.com](https://toonil
 
 ```bash
 # Search for a manhwa
-manhwa-cli "solo leveling"
+manhwa-cli solo leveling
 
 # Limit the number of search results
-manhwa-cli "martial peak" --limit 5
+manhwa-cli solo leveling --limit 5
 ```
 
 ### Interactive Features
